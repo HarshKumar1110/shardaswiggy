@@ -10,7 +10,7 @@ class Main {
 
         String[] vegFood = { "Pav Bhaji", "Samosa", "Aloo tikki", "Paneer tikka", "Ragada pattice ", "Katchi dabeli ",
                 "Veg wraps", "Bhelpuri", "Dahi puri", "Sev puri" };
-        int[] vegPrice = { 150, 50, 70, 300, 150, 185, 11045, 80, 50 };
+        int[] vegPrice = { 150, 50, 70, 300, 150, 185, 110,45, 80, 50 };
 
         String[] nonVegFood = { "Chicken Biryani", "Butter Chicken", "Reshmi Kabab", "Tandoori Chicken",
                 "Chicken Tikka Masala" };
