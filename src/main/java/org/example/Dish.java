@@ -1,8 +1,6 @@
 package org.example;
 
 public class Dish {
-
-
     String dishName;
     int restroId;
     int dishPrice;

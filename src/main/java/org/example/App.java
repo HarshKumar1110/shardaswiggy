@@ -24,6 +24,8 @@ public class App {
             String [] tempMenu = new String[100];
 
 
+
+
             }
             for (Restro restro: restroList){
                 if(restro==null){
@@ -43,7 +45,7 @@ public class App {
             dishList[i] = new Dish(Integer.valueOf(dishData[0]), Integer.valueOf(dishData[1]), dishData[2]);
 
         }
-        for (Dish dish : dishList){
+        for (Dish dish : dishList) {
             if(dish == null){
                 break;
             }
@@ -56,8 +58,7 @@ public class App {
         App aa = new App();
         aa.parseDishData();
         aa.parseRestroData();
-//
-    }
 
     }
 
+}
