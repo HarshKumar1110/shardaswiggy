@@ -1,20 +1,20 @@
-1,150,Pizza
-1,102,Burger
-1,103,Fries
-1,104,Chilli Potato
-2,200,Pizza
-2,80,Burger
-2,94,Fries
-2,123,Chilli Potato 
-3,250,Pizza
-3,99,Burger
-3,94,Fries
-3,123,Chilli Potato 
-4,100,Pizza
-4,120,Burger
-4,130,Fries
-4,150,Chilli Potato 
-5,160,Pizza
-5,70,Burger
-5,50,Fries
-5,170,Chilli Potato 
+1,Pizza,150
+1,Burger,102
+1,Fries,103
+1,Chilli Potato,104
+2,Pizza,200
+2,Burger,80
+2,Fries,94
+2,Chilli Potato ,123
+3,Pizza,250
+3,Burger,99
+3,Fries,94
+3,Chilli Potato ,123
+4,Pizza,100
+4,Burger,120
+4,Fries,130
+4,Chilli Potato ,150
+5,Pizza,160
+5,Burger,70
+5,Fries,50
+5,Chilli Potato,170
