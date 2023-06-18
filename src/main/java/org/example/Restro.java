@@ -1,9 +1,9 @@
 package org.example;
 
 public class Restro {
-    int restroId;
+    String restroId;
     String restroName;
-    public Restro(int restroId, String restroName) {
+    public Restro(String restroId, String restroName) {
         this.restroId=restroId;
         this.restroName=restroName;
     }

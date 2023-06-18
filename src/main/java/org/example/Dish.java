@@ -4,11 +4,14 @@ public class Dish {
     String dishName;
     int restroId;
     int dishPrice;
-    public Dish(int restroId, String dishName ,int dishPrice) {
+    public Dish(int restroId, String dishName , int dishPrice) {
         this.restroId = restroId;
         this.dishName = dishName;
         this.dishPrice = dishPrice;
+    }
 
+    public int getRestroId(){
+        return restroId;
     }
 
     @Override
